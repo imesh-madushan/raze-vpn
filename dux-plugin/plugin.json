@@ -1,0 +1,13 @@
+{
+  "id": "razeVpn",
+  "name": "VPN",
+  "description": "VPN status and controls for the raze VPN manager",
+  "version": "1.4.0",
+  "author": "raze",
+  "icon": "vpn_lock",
+  "type": "widget",
+  "component": "./VpnWidget.qml",
+  "requires_dms": ">=2.0.0",
+  "dependencies": ["python3"],
+  "permissions": ["process"]
+}

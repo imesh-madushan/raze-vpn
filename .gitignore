@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+*.log
+.env
+.env.*
+private-data/
+profiles/
+backups/
+logs/
+runtime/
+
+# Packaging and editor leftovers
+*.zip
+*.tar.gz
+*.bak
+*.swp
+.idea/
+.vscode/
+.DS_Store
+vpn.before-*
